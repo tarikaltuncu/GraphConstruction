@@ -13,9 +13,9 @@ setup(
     packages=find_packages('src'),
     install_requires=requirements,
     extras_require={
-        "cknn": ["git+https://github.com/chlorochrule/cknn/blob/master/cknn/cknn.py"],
-        "distanceclosure": ["git+https://github.com/tarikaltuncu/distanceclosure"],
-    }
+        # "cknn": ["git+https://github.com/tarikaltuncu/cknn.git"],
+        # "distanceclosure": ["git+https://github.com/tarikaltuncu/distanceclosure.git"],
+    },
     classifiers=[
         'Intended Audience :: Science/Research',
         'Operating System :: POSIX :: Linux',

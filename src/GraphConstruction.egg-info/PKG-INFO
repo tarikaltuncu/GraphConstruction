@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: GraphConstruction
+Version: 1.0
+Summary: GraphConstruction Python package
+Author: Muhammed Tarik Altucnu
+Author-email: tarikaltuncu@gmail.com
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
